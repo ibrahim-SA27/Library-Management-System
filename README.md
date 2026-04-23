@@ -12,4 +12,3 @@ This is a simple Library Management System using C++.
 ## 📸 Sample Output
 
 ![Output](output.png)
-
