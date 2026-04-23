@@ -9,5 +9,7 @@ This is a simple Library Management System using C++.
 - Issue & Return
 - Search
 
-## Sample Output
+## 📸 Sample Output
+
 ![Output](output.png)
+
